@@ -1,0 +1,33 @@
+# Ignore node_modules and build directories
+/frontend/node_modules/
+/frontend/build/
+/backend/node_modules/
+/backend/build/
+
+# Ignore log files
+/frontend/logs/
+/frontend/*.log
+/backend/logs/
+/backend/*.log
+
+# Ignore environment variable files
+/frontend/.env
+/backend/.env
+
+# Ignore coverage reports
+/frontend/coverage/
+/backend/coverage/
+
+# Ignore temporary files
+/frontend/tmp/
+/frontend/temp/
+/backend/tmp/
+/backend/temp/
+
+# Ignore IDE specific files
+/.vscode/
+/.idea/
+/*.suo
+/*.ntvs
+/*.njsproj
+/*.sln
