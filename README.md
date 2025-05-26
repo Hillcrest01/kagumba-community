@@ -4,3 +4,5 @@ the system is built using ReactJS and django
 Rapar Nyobongo held today 3/5/25
 Next is to finish the project before end month.
 
+It includes all the money records as well and the projects that will be included.
+
