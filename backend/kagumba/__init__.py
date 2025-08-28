@@ -9,3 +9,7 @@ def home():
 @app.route('/members')
 def members():
   return render_template('members.html' , members = members)
+
+@app.route('/contributions')
+def contributions():
+  pass
